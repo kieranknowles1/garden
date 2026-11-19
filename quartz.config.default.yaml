@@ -109,8 +109,6 @@ plugins:
     enabled: true
   - source: "@quartz-community/favicon"
     enabled: true
-  - source: "@quartz-community/og-image"
-    enabled: true
   - source: "@quartz-community/cname"
     enabled: true
   - source: "@quartz-community/canvas-page"
