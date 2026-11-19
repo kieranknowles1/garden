@@ -5,8 +5,6 @@ configuration:
   enableSPA: true
   enablePopovers: true
   prefetch: viewport
-  analytics:
-    provider: plausible
   locale: en-US
   baseUrl: quartz.jzhao.xyz
   ignorePatterns:
