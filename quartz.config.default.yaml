@@ -103,8 +103,6 @@ plugins:
     options:
       theme: tokyo-night
       mode: both
-  - source: "@quartz-community/explicit-publish"
-    enabled: false
   - source: "@quartz-community/alias-redirects"
     enabled: true
     options:
