@@ -95,8 +95,6 @@ plugins:
     enabled: true
     options:
       enableCaseRedirects: false
-  - source: "@quartz-community/favicon"
-    enabled: true
   - source: "@quartz-community/cname"
     enabled: true
   - source: "@quartz-community/canvas-page"
