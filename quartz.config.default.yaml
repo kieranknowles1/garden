@@ -191,12 +191,6 @@ plugins:
     enabled: true
     options: {}
     order: 45
-  - source: "@quartz-community/stacked-pages"
-    enabled: false
-    layout:
-      position: afterBody
-      priority: 50
-      display: all
 layout:
   groups:
     toolbar:
