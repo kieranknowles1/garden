@@ -107,6 +107,8 @@ plugins:
     enabled: false
   - source: "@quartz-community/alias-redirects"
     enabled: true
+    options:
+      enableCaseRedirects: false
   - source: "@quartz-community/favicon"
     enabled: true
   - source: "@quartz-community/cname"
