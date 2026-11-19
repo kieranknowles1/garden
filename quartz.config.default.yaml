@@ -84,15 +84,6 @@ plugins:
     options:
       renderEngine: katex
     order: 80
-  - source: "@quartz-community/citations"
-    enabled: false
-    order: 85
-  - source: "@quartz-community/ox-hugo"
-    enabled: false
-    order: 91
-  - source: "@quartz-community/roam"
-    enabled: false
-    order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
   - source: "@quartz-themes/core"
@@ -160,14 +151,6 @@ plugins:
       position: left
       priority: 30
       group: toolbar
-  - source: "@quartz-community/comments"
-    enabled: false
-    options:
-      provider: giscus
-      options: {}
-    layout:
-      position: afterBody
-      priority: 10
   - source: "@quartz-community/footer"
     enabled: true
     options:
@@ -177,8 +160,6 @@ plugins:
     layout:
       position: footer
       priority: 50
-  - source: "@quartz-community/recent-notes"
-    enabled: false
   - source: "@quartz-community/spacer"
     enabled: true
     options: {}

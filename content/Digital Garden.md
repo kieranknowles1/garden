@@ -1,6 +1,8 @@
 ---
 dg-home: true
 dg-publish: true
+aliases:
+  - index
 ---
 Welcome to the root of my 100% human-made [Digital Garden](https://forestry.md/).
 ![[AI-0]]
