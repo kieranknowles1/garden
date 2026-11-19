@@ -15,7 +15,7 @@ configuration:
     - .obsidian
   theme:
     fontOrigin: googleFonts
-    cdnCaching: true
+    cdnCaching: false
     typography:
       header: Schibsted Grotesk
       body: Source Sans Pro
@@ -84,8 +84,6 @@ plugins:
     options:
       renderEngine: katex
     order: 80
-  - source: "@quartz-community/quartz-fonts"
-    enabled: true
   - source: "@quartz-themes/core"
     enabled: false
     options:
