@@ -5,7 +5,9 @@ configuration:
   enableSPA: true
   enablePopovers: true
   prefetch: viewport
-  locale: en-US
+  locale: en-GB
+  drafts:
+    enabled: false
   baseUrl: quartz.jzhao.xyz
   ignorePatterns:
     - private
