@@ -35,6 +35,7 @@ player.equipitem Dirty_NewScissors
 ```
 
 # Cursed Knowledge
+- If a quest is start enabled and has an alias forced to null, it will start on new game with all of its aliases empty.
 - `IsCurrentFurnitureRef` crashes if used on a disabled actor.
 - Most of what [Antigen](https://github.com/mutagen-Modding/antigen) checks for.
 # Troubleshooting
