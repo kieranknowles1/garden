@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+publish: true
 ---
 > Food, Glorious Food
 

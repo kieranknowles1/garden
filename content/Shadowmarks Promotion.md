@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Beyond Skyrim Cyrodiil]]"
-dg-publish: true
+publish: true
 status: Complete
 tags:
   - project/beyond-skyrim

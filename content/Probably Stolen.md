@@ -2,7 +2,7 @@
 categories:
   - "[[Games]]"
 cover: "[[Probably Stolen.jpg]]"
-dg-publish: true
+publish: true
 ---
 > Come on down to Ripoff Nick's Nicked Goods
 
@@ -26,13 +26,14 @@ dg-publish: true
 - Evening: Dr. Jackson closed
 ## Tuesday
 ## Wednesday
-- Fresh dump in dumping grounds
+- Security surplus seller
+- Evening: Fresh dump in dumping grounds
 ## Thursday
 - Lottery representative
 - Security requisition officer
 ## Friday
 - Retired winemaker
-- Commissary restock
+- Evening: Commissary restock
 ## Saturday
 - Lottery draw
 ## Sunday
@@ -43,8 +44,10 @@ dg-publish: true
 # Recipes
 ## Wine
 High quality water, 1 normal berry, 1 small berry, yeast. Produces master vintage.
+
+If ideal berries are unavailable, 1 small and 1 over/under ripe will produce reserve quality, worth 25 credits less.
 # Fraud
 ## Medicine/Drugs
 Hospital staff will always state if they have a chem scanner. Others are unable to test, but may complain about fraud the next day.
 ## Water
-Scavengers and tourists don't test. A scavenger selling blood will buy ghost water as pure water.
+Scavengers and tourists don't test. A scavenger selling blood will buy pure water.

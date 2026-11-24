@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Resouces]]"
-dg-publish: true
+publish: true
 ---
 # Tex Maths Cheat Sheet
 Cheat sheet for common LaTeX maths expressions.

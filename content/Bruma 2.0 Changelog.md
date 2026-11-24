@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Beyond Skyrim Cyrodiil]]"
-dg-publish: true
+publish: true
 urls:
   - https://www.nexusmods.com/skyrimspecialedition/mods/10917
 ---
@@ -83,7 +83,8 @@ Average RMS:
 There's always the hotfix.
 - Remove unvoiced female Orcs
 - Fix buying horse from Wildeye stables only removing 900 gold instead of 3000
-- Fix floating ref in Underpall Keep and near Frostcrag Spire
+- Fix floating ref in Underpall Keep, near Frostcrag Spire, and in `POISnow16` (County Bruma Talos statue)
+- Touch up navmesh in `POISnow16`
 - Account for iron ingots already carried at start of Gort's quest
 - Fix displayed iron ingot count exceeding target if picking up multiple at once
 - Fix questioning Harald about legitimacy after a success angering him.

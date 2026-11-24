@@ -2,10 +2,10 @@
 categories:
   - "[[Games]]"
 cover: "[[Kingdom Come Deliverance II.jpg]]"
-dg-publish: true
 genres:
   - "[[Genres#RPG]]"
   - "[[Genres#Historical]]"
+publish: true
 ---
 > I remember every major character's name. Radzig, Istvan, that bald guy
 # Alchemy for the Impatient/Multitasker

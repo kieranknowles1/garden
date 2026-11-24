@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+publish: true
 ---
 # Crime
 ## Noir
@@ -7,8 +7,8 @@ dg-publish: true
 ## Political Drama
 # Dystopia
 ## Post Apocalypse
-# Fantasy
-Often but not always [[#Historical]] themes.
+
+![[Fantasy]]
 # Historical
 # Horror
 ## Cosmic Horror

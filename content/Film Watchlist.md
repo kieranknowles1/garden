@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+publish: true
 ---
 # [[Dune]]
 [genre::[[Genres#Science Fiction]]]

@@ -2,10 +2,10 @@
 categories:
   - "[[Games]]"
 cover: "[[Skyrim.jpg]]"
-dg-publish: true
 genres:
   - "[[Genres#RPG]]"
-  - "[[Genres#Fantasy]]"
+  - "[[Fantasy]]"
+publish: true
 ---
 > Just one more mod
 ![[Category Listing.base]]

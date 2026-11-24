@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Food]]"
-dg-publish: true
+publish: true
 ---
 1 hour cooking time. My preferred way of cooking the [Hairy Bikers Recipe](https://www.hairybikers.com/recipes/view/spanish-style-chicken-bake).
 # Ingredients

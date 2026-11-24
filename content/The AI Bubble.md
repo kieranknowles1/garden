@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Rants]]"
-dg-publish: true
+publish: true
 ---
 # The AI Bubble
 [date::2025-09-21]

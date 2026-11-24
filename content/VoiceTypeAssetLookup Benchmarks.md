@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Skyrim]]"
-dg-publish: true
+publish: true
 status: Complete
 tags:
   - project/mutagen

@@ -2,7 +2,7 @@
 categories:
   - "[[Skyrim]]"
   - "[[Resouces]]"
-dg-publish: true
+publish: true
 ---
 # Animations
 ## Bound Prisoner

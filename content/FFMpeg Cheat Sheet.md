@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Resouces]]"
-dg-publish: true
+publish: true
 ---
 Cheat sheet for common [FFMpeg](https://ffmpeg.org/) commands. `$VAR` signifies a user-defined value that should be replaced as needed.
 # Concatenate Videos

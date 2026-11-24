@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - full-width
-dg-publish: true
+publish: true
 ---
 
 ```base
