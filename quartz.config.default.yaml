@@ -14,7 +14,6 @@ configuration:
     - templates
     - .obsidian
   theme:
-    fontOrigin: googleFonts
     cdnCaching: false
     typography:
       header: Schibsted Grotesk
@@ -41,6 +40,8 @@ configuration:
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
+  fonts:
+    fontOrigin: selfHosted
   links:
     markdownLinkResolution: shortest
   contentIndex:
@@ -81,8 +82,10 @@ plugins:
     order: 70
   - source: "@quartz-community/latex"
     enabled: true
+    # Can't copy-paste from this, but prevents connecting to a third party or
+    # having to render client-side
     options:
-      renderEngine: katex
+      renderEngine: mathjax
     order: 80
   - source: "@quartz-themes/core"
     enabled: false
