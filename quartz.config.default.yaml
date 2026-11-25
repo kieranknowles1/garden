@@ -87,7 +87,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: false
     options:
-      theme: tokyo-night
+      theme: Tokyo Night
       mode: both
   - source: "@quartz-community/alias-redirects"
     enabled: true
