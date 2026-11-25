@@ -82,13 +82,26 @@ Average RMS:
 # Bruma 2.0 Hotfix
 There's always the hotfix.
 - Remove unvoiced female Orcs
+## Stormcloak in Chains
+- Calm soldiers when on top of tower during jailbreak.
+- Fix potential softlock when the Oculatus arrive.
+- Fix Bjarni not having his hands bound when taken outside.
+
+# Bruma 2.0 Hotfix 2
+One is never enough.
 - Fix buying horse from Wildeye stables only removing 900 gold instead of 3000
 - Fix floating ref in Underpall Keep, near Frostcrag Spire, and in `POISnow16` (County Bruma Talos statue)
 - Touch up navmesh in `POISnow16`
 - Account for iron ingots already carried at start of Gort's quest
 - Fix displayed iron ingot count exceeding target if picking up multiple at once
 - Fix questioning Harald about legitimacy after a success angering him.
+- Tweaks to Armion-Dar'taqto fight scene
+	- Make sure Serulius is close enough (1.5 cells max)
+	- Prevent scene from starting during the Neremus-Armion intro
+	- Stop scene when talking to an actor. Workaround for potential softlock if speaking to Serulius or Dar'taqto once Armion has left.
 ## Stormcloak in Chains
-- Calm soldiers when on top of tower during jailbreak.
-- Fix potential softlock when the Oculatus arrive.
-- Fix Bjarni not having his hands bound when taken outside.
+- Don't fail interrogation objectives until jailbreak route is locked in.
+- Prevent incursion Stormcloaks from sandboxing if not in combat.
+- Bring up "Improve your persuasion" objective after backing out of dialogue during either interrogation.
+- Enable "I want to free you" topic during first part of second interrogation.
+- Fix "We've got to find Bjarni" line not playing if Stormcloaks are enabled into combat.

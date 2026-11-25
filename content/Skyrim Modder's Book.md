@@ -4,6 +4,8 @@ categories:
   - "[[Resouces]]"
 publish: true
 ---
+```table-of-contents
+```
 # Animations
 ## Bound Prisoner
 Play idle `OffsetBoundStandingStart` and equip prisoner cuffs to create a bound prisoner, useful for if they are being escorted to jail.
@@ -37,6 +39,7 @@ You shouldn't edit UI files yourself since it would cause conflicts with other m
 - [Inventory Injector](https://www.nexusmods.com/skyrimspecialedition/mods/85702)
 - [Inventory Injector Wiki](https://github.com/Exit-9B/InventoryInjector/wiki)
 - [Icon Packs](https://www.nexusmods.com/skyrimspecialedition/mods/85702)
+![[Cyrodiil Topic Priorities]]
 # UI Localisation
 UI strings are defined using Scaleform translations in `Data/Interface/MyMod_LANGUAGE.txt` without the `.esp` extension. These are loaded automatically so long as the plugin with a matching name is loaded.
 
