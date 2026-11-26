@@ -5,3 +5,5 @@ views:
       and:
         - categories.contains(this)
         - '!file.inFolder("Templates")'
+    order:
+      - file.name

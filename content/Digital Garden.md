@@ -15,5 +15,7 @@ views:
         - categories.isEmpty()
         - publish == true
         - link(file) != this
+    order:
+      - file.name
 
 ```

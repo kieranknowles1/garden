@@ -15,7 +15,7 @@ publish: true
 3. Add 1x sage to pot
 4. Start boil
 5. Grind and add wormwood
-6. Boil 1 $1\over2$ turns
+6. Boil $1{1\over2}$ turns
 7. Distill
 ## Marigold Decoction -- Healing
 1. Water
