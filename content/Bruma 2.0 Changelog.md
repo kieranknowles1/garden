@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Beyond Skyrim Cyrodiil]]"
-publish: true
+modified: 2026-11-25T22:26:58.000Z
 urls:
   - https://www.nexusmods.com/skyrimspecialedition/mods/10917
 ---

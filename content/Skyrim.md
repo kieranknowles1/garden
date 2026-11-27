@@ -5,7 +5,7 @@ cover: "[[Skyrim.jpg]]"
 genres:
   - "[[Genres#RPG]]"
   - "[[Fantasy]]"
-publish: true
+modified: 2026-11-24T21:21:39.000Z
 ---
 > Just one more mod
 ![[Category Listing.base]]

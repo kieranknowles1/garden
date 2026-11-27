@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Beyond Skyrim Cyrodiil]]"
-publish: true
+modified: 2026-11-19T21:49:16.000Z
 status: Complete
 tags:
   - project/beyond-skyrim

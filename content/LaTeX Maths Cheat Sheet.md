@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Resouces]]"
-publish: true
+modified: 2026-11-19T21:49:16.000Z
 ---
 # Tex Maths Cheat Sheet
 Cheat sheet for common LaTeX maths expressions.

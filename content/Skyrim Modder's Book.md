@@ -2,7 +2,7 @@
 categories:
   - "[[Skyrim]]"
   - "[[Resouces]]"
-publish: true
+modified: 2026-11-25T13:51:45.000Z
 ---
 ```table-of-contents
 ```

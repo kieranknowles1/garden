@@ -1,6 +1,6 @@
 ---
 permalink: index
-publish: true
+modified: 2026-11-26T23:52:29.000Z
 ---
 Welcome to the root of my 100% human-made [Digital Garden](https://forestry.md/).
 ![[AI-0]]

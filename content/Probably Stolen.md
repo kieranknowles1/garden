@@ -2,7 +2,7 @@
 categories:
   - "[[Games]]"
 cover: "[[Probably Stolen.jpg]]"
-publish: true
+modified: 2026-11-20T15:38:16.000Z
 ---
 > Come on down to Ripoff Nick's Nicked Goods
 

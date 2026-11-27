@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Skyrim Modder's Book]]"
-publish: true
+modified: 2026-11-26T23:52:29.000Z
 ---
 Excerpt from the Cyrodiil implementation best practices document.
 
